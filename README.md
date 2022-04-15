@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Mesharrk
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on any javascript projects.
-- 📫 How to reach me @sirinchameshack@gmail.com
+Full stack engineer
+Reach me @sirinchameshack@gmail.com
 
 <!---
 Mesharrk/Mesharrk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
